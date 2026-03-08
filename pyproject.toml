@@ -4,4 +4,13 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "fastapi>=0.135.1",
+    "logzero>=1.7.0",
+    "pandas>=3.0.1",
+    "pyotp>=2.9.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.32.5",
+    "smartapi-python>=1.5.5",
+    "websocket-client>=1.9.0",
+]
