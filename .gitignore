@@ -3,6 +3,7 @@ notes
 src/logs
 logs
 src/data/logs
+config/.env
 
 # Python-generated files
 __pycache__/
